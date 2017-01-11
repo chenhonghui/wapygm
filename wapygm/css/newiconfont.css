@@ -1,0 +1,37 @@
+
+@font-face {font-family: "newiconfont";
+  src: url('iconfont.eot?t=1476688274'); /* IE9*/
+  src: url('iconfont.eot?t=1476688274#iefix') format('embedded-opentype'), /* IE6-IE8 */
+ 
+  url('iconfont.ttf?t=1476688274') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+*/
+  url('iconfont.svg?t=1476688274#iconfont') format('svg'); /* iOS 4.1- */
+}
+
+.newiconfont {
+  font-family:"newiconfont" !important;
+  font-size:16px;
+  font-style:normal;
+  -webkit-font-smoothing: antialiased;
+  -webkit-text-stroke-width: 0.2px;
+  -moz-osx-font-smoothing: grayscale;
+}
+.icon-suth:before { content: "\e617"; }
+.icon-store:before { content: "\e615"; }
+.icon-share:before { content: "\e614"; }
+.icon-service:before { content: "\e613"; }
+.icon-refund:before { content: "\e612"; }
+.icon-qrcode:before { content: "\e611"; }
+.icon-putaway:before { content: "\e610"; }
+.icon-preview:before { content: "\e60f"; }
+.icon-phone:before { content: "\e60e"; }
+.icon-person:before { content: "\e60c"; }
+.icon-order:before { content: "\e60b"; }
+.icon-main:before { content: "\e609"; }
+.icon-invite:before { content: "\e608"; }
+.icon-handle:before { content: "\e607"; }
+.icon-edit:before { content: "\e606"; }
+.icon-delete:before { content: "\e605"; }
+.icon-crowdfunding:before { content: "\e604"; }
+.icon-connection:before { content: "\e603"; }
+.icon-class:before { content: "\e601"; }
+.icon-address:before { content: "\e600"; }

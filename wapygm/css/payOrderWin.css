@@ -1,0 +1,30 @@
+
+			body{position: relative;}
+			.pay_order_panel input::-moz-focus-outer,.pay_order_panel input::-moz-focus-inner {-webkit-appearance: none;-moz-appearance: none;appearance: none;}
+			.pay_order_panel_cover {display:none;position: absolute;left: 0;right: 0;top: 0;bottom:0;background: rgba(0,0,0,.5);z-index:9998;}
+			.pay_order_panel button {outline: none;border: none;}
+			.pay_order_panel{display:none;height:auto;padding:5px 10px 15px;background:#fff;position:absolute;left:0;bottom:0;right:0;z-index:9999;}
+			.pay_order_panel h3{height:30px;padding:5px 0;border-bottom:1px solid #eee;font-size:16px;font-weight:300;line-height:30px;color:#222;position: relative;}
+			.pay_order_panel h3 span {display: none;height: 30px;width: auto;position: absolute;right: 35px;top: 5px;}
+			.pay_order_panel h3 i {display: none;height: 30px;width: 30px;font-size:18px;text-align:center;line-height:28px;color: #07aaff;position:absolute;right: 0;top: 5px;}
+			.pay_order_panel .pay_order_panel_wallet span,.pay_order_panel .pay_order_panel_wallet i{display: block;}
+			
+        	.pay_order_panel_password {display:none;height: 35px;padding: 10px 120px 15px 0;border-bottom:1px solid #eee;position: relative;}
+        	.pay_order_panel_password label {display: block;height: 35px;background: #f2f2f2;position: relative;overflow: hidden;}
+        	.pay_order_panel_password label input {display: block;height: 35px;width: 100%;border:0;background: transparent;font-size:14px;line-height: 35px;text-indent: 10px;outline: none;}
+       		.pay_order_panel_password button {display: block;height: 35px;width: 110px;border-radius:3px;background:#07aaff;font-size:18px;color:#fff;text-align:center;line-height:35px;position: absolute;right: 0;top: 10px;}
+      		.pay_order_panel_password button:enabled:active {background: #0668a0;}
+      		
+      		.pay_order_panel_money {height: 35px;padding: 10px 0 5px;font-size: 22px;line-height: 35px;text-align: center;font-weight: 300;}
+      		.pay_order_panel_money b {padding-left:5px;color: #07aaff;font-weight: 300;}
+      		
+			.pay_order_panel_none {padding:20px 0;font-size: 16px;line-height: 40px;color:#aaa;text-align: center;}
+			
+			.pay_order_panel ul{padding-top:10px;}
+			.pay_order_panel li{height:50px;padding-left:45px;position:relative;font-size:16px;line-height:25px;}
+	        .pay_order_panel li a{color:#777;}
+			.pay_order_panel li:active{background: #eee;}
+			.pay_order_panel li img{display:block;height:40px;width:40px;position:absolute;left:0;top:5px;}
+			.pay_order_panel li small{display:block;height:20px;font-size:12px;color:#777;line-height:20px;}
+      		
+      		.pay_order_panel form {display: none;}

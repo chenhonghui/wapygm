@@ -1,0 +1,7 @@
+var SiteUrl = "http://myshop.moyuntv.com";
+var ApiUrl = "http://myshop.moyuntv.com/mobile2";
+var pagesize = 10;
+var WapSiteUrl = "http://myshop.moyuntv.com/wap2";
+var AndroidSiteUrl = "http://www.myshop.net/download/app/Android2014Moblie.apk";
+var LiveUrl = "http://mylive.moyuntv.com"
+
